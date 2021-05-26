@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,EAAE,CAAA;EACE,KAAK,EAAE,IAAI;EACX,UAAU,EAAE,MAAM;CAGrB;;AACD,AAAA,sBAAsB,CAAA;EAClB,OAAO,EAAE,YAAY;EACrB,KAAK,EAAE,GAAG;CAIb",
+    "sources": [
+        "Aggregation.scss"
+    ],
+    "names": [],
+    "file": "Aggregation.css"
+}

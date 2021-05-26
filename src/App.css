@@ -1,0 +1,15 @@
+* {
+  background-color: #494846;
+}
+
+:root {
+  --textColor: #fff;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 2rem;
+  font-size: 54px;
+  color: var(--textColor);
+}
+/*# sourceMappingURL=App.css.map */
